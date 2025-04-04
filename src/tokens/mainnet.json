@@ -134,6 +134,16 @@
       "symbol": "rUSD"
     },
     {
+      "address": "0x597877Ccf65be938BD214C4c46907669e3E62128",
+      "decimals": 18,
+      "image": "snect.webp",
+      "mintUrl": "https://app.beraborrow.com/pool/deposit",
+      "name": "Staked Nectar",
+      "protocol": "beraborrow",
+      "symbol": "sNECT",
+      "type": "cdp"
+    },
+    {
       "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
       "decimals": 18,
       "image": "solvbtc.svg",
@@ -250,16 +260,6 @@
         "0x6969696969696969696969696969696969696969",
         "0x1F7210257FA157227D09449229a9266b0D581337"
       ]
-    },
-	{
-      "address": "0x597877Ccf65be938BD214C4c46907669e3E62128",
-      "decimals": 18,
-      "image": "snect.webp",
-      "mintUrl": "https://app.beraborrow.com/pool/deposit",
-      "name": "Staked Nectar",
-      "protocol": "beraborrow",
-      "symbol": "sNECT",
-      "type": "cdp"
     },
     {
       "address": "0x6751C09113a83a83a43829fD0b3BC0D7bdbe07bf",
