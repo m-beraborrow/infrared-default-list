@@ -141,7 +141,8 @@
       "name": "Staked Nectar",
       "protocol": "beraborrow",
       "symbol": "sNECT",
-      "type": "cdp"
+      "type": "cdp",
+      "underlyingTokens": ["0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3"]
     },
     {
       "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
